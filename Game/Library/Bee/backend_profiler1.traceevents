@@ -1,0 +1,668 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1667923774353443, "dur":1914, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923774355366, "dur":116, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1667923774355547, "dur":36, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1667923774355585, "dur":710, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1667923774356344, "dur":821, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923774357165, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084133, "dur":642, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084794, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084814, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084818, "dur":28, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084846, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084848, "dur":28, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084876, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084878, "dur":21, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084899, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084901, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084910, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084911, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084920, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084922, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084930, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084932, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084940, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084942, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776084953, "dur":62, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085015, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085025, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085026, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085035, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085037, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085045, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085047, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085059, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085061, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085070, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085071, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085080, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085082, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085096, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085123, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776085178, "dur":4970, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1667923774356933, "dur":323, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923774357256, "dur":6577, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923774363844, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1667923774364128, "dur":17, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923774367254, "dur":135175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1667923774502497, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923774502578, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923774503328, "dur":119635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923774623057, "dur":288145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923774911219, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923774911244, "dur":3128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923774914481, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923774914584, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923774914602, "dur":57140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923774971849, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923774971935, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923774971952, "dur":39903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923775011961, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923775012069, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923775012091, "dur":72735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923775084913, "dur":128664, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923775213594, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923775213621, "dur":2281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923775215996, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923775216104, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923775216123, "dur":457823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923775674028, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923775674110, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1667923775674129, "dur":219202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1667923775893390, "dur":190804, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1667923774360242, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1667923774360243, "dur":3686, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1667923774363930, "dur":577, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1667923774364510, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1667923774501072, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1667923774503896, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923774503967, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1667923774503977, "dur":47928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923774552021, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923774552144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1667923774552164, "dur":280706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923774832956, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923774833033, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1667923774833049, "dur":224667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923775057812, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923775057902, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1667923775057921, "dur":274739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923775332754, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923775332837, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1667923775332856, "dur":502516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1667923775837019, "dur":247193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923774357239, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923774357240, "dur":6586, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923774363844, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1667923774363846, "dur":229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923774364082, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1667923774364089, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923774365890, "dur":11921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1667923774377815, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1667923774378064, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923774378386, "dur":377709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1667923774756175, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923774756260, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923774756277, "dur":49874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923774806247, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923774806327, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923774806346, "dur":110929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923774917420, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923774917537, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923774917554, "dur":248404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923775166041, "dur":6947, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923775173000, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923775173023, "dur":2534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923775175638, "dur":87339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Configuration.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1667923775262993, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923775263029, "dur":3436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Configuration.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1667923775266631, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923775266726, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923775266741, "dur":104813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923775371631, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923775371711, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923775371732, "dur":167847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923775539660, "dur":166491, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923775706166, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923775706189, "dur":2194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":3, "ts":1667923775708468, "dur":32405, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1667923775740884, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923775740903, "dur":2623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1667923775743705, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1667923775743808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923775743829, "dur":3063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1667923775746988, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1667923775747066, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1667923775747081, "dur":40026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1667923775787577, "dur":296552, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923774357536, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923774357536, "dur":6460, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923774363997, "dur":790, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1667923774364793, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923774408449, "dur":151998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1667923774560545, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1667923774560634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923774560651, "dur":53420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1667923774614164, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1667923774614242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923774614257, "dur":455476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1667923775069832, "dur":663786, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1667923775733632, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775733655, "dur":3897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1667923775737645, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":4, "ts":1667923775737949, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775738795, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":4, "ts":1667923775741163, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1667923775741266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775741375, "dur":3394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1667923775744884, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1667923775745040, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775745063, "dur":4966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1667923775750134, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1667923775750416, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775750430, "dur":4466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1667923775754996, "dur":2028, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1667923775757033, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775757049, "dur":3309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1667923775760447, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level3" }}
+,{ "pid":12345, "tid":4, "ts":1667923775760533, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775760601, "dur":1785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level3" }}
+,{ "pid":12345, "tid":4, "ts":1667923775762476, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1667923775762559, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775762572, "dur":13366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1667923775776030, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1667923775776105, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775776119, "dur":6824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1667923775783033, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1667923775783117, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1667923775783131, "dur":3912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1667923775787135, "dur":296998, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774358332, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774358333, "dur":5504, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774363844, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1667923774364149, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774373671, "dur":17443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1667923774391176, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774391378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774391454, "dur":110586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774502169, "dur":264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1667923774502440, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774503263, "dur":43438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1667923774546796, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774546897, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774546916, "dur":53665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774600822, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774600993, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774601016, "dur":141826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774742969, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774743112, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774743133, "dur":42180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774785426, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774785542, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774785563, "dur":46433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774832081, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774832173, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774832189, "dur":145362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774977647, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923774977740, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923774977758, "dur":116699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923775094539, "dur":104526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923775199074, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923775199089, "dur":2445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923775201638, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923775201728, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923775201743, "dur":176936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923775378778, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923775378869, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923775378886, "dur":319526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923775698495, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923775698571, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1667923775698589, "dur":294359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1667923775992985, "dur":91143, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774357783, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774357784, "dur":6051, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774363844, "dur":606, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1667923774364454, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774377068, "dur":13677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1667923774390816, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774390979, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774391307, "dur":110446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774501828, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1667923774502004, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774502014, "dur":3963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1667923774506035, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774506103, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774506113, "dur":76206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774582429, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774582517, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774582535, "dur":48545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774631172, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774631257, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774631275, "dur":57856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774689215, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774689299, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774689318, "dur":105337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774794746, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774794827, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774794846, "dur":91865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774886798, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774886932, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774886952, "dur":70297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774957459, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923774957598, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923774957618, "dur":71941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923775029660, "dur":214639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923775244310, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923775244328, "dur":2715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923775247123, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923775247209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923775247226, "dur":165485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923775412802, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923775412899, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923775412920, "dur":341680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1667923775754690, "dur":358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1667923775755056, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923775755073, "dur":2205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1667923775757385, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level3.resS" }}
+,{ "pid":12345, "tid":6, "ts":1667923775757485, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923775757501, "dur":3581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level3.resS" }}
+,{ "pid":12345, "tid":6, "ts":1667923775761167, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level2.resS" }}
+,{ "pid":12345, "tid":6, "ts":1667923775761256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923775761269, "dur":16825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level2.resS" }}
+,{ "pid":12345, "tid":6, "ts":1667923775778201, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1667923775778280, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923775778294, "dur":6706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1667923775785075, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1667923775785357, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1667923775785369, "dur":2295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1667923775787734, "dur":296477, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1667923774358083, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1667923774358083, "dur":5821, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1667923774363906, "dur":546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1667923774364459, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1667923774384965, "dur":117398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1667923774502430, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1667923774502527, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1667923774503293, "dur":439176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1667923774942554, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1667923774942661, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1667923774942682, "dur":88191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1667923775030952, "dur":16742, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1667923775047705, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1667923775047722, "dur":15558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1667923775063364, "dur":236414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1667923775299790, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1667923775299809, "dur":2693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1667923775302577, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1667923775302653, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1667923775302667, "dur":483819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1667923775786566, "dur":297575, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1667923774358605, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1667923774358605, "dur":5304, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1667923774363911, "dur":612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1667923774364530, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1667923774400950, "dur":703819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1667923775104854, "dur":94869, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1667923775199785, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1667923775199806, "dur":4171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1667923775204072, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1667923775204165, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1667923775204180, "dur":427845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1667923775632124, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Newtonsoft.Json.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1667923775632210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1667923775632230, "dur":43355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Newtonsoft.Json.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1667923775675714, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1667923775675797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1667923775675814, "dur":153695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1667923775829563, "dur":254670, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774359746, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774359747, "dur":4174, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774363924, "dur":486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1667923774364427, "dur":10, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774374916, "dur":16260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1667923774391251, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774391433, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774391443, "dur":110114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774501836, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules.exe" }}
+,{ "pid":12345, "tid":9, "ts":1667923774502104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774502114, "dur":174160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules.exe" }}
+,{ "pid":12345, "tid":9, "ts":1667923774676353, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774676459, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774676477, "dur":54792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774731497, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774731618, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774731636, "dur":93346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774825086, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774825200, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774825217, "dur":68148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774893484, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774893581, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774893601, "dur":73508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774967205, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923774967289, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923774967310, "dur":116632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923775084035, "dur":5326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923775089373, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923775089395, "dur":2172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923775091654, "dur":19904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Scheduler.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1667923775111569, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923775111589, "dur":8392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Scheduler.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1667923775120076, "dur":64534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Internal.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1667923775184627, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923775184647, "dur":8501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Internal.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1667923775193234, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923775193322, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923775193341, "dur":288657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923775482083, "dur":375543, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923775857641, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1667923775857664, "dur":1892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":9, "ts":1667923775859609, "dur":224590, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774359039, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774359039, "dur":4893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774363933, "dur":601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1667923774364541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774401756, "dur":113843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1667923774515656, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774515712, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774515722, "dur":42158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774557975, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774558064, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774558082, "dur":52161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774610337, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774610439, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774610455, "dur":125352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774735899, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774735984, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774736001, "dur":49567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774785736, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774785844, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774785864, "dur":41962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774827915, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774828058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774828075, "dur":49761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774877939, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774878034, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774878056, "dur":39236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774917402, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774917664, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774917685, "dur":53584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774971373, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923774971530, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923774971549, "dur":88469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923775060138, "dur":21515, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1667923775081666, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923775081689, "dur":2916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1667923775084687, "dur":25653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Telemetry.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1667923775110357, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923775110381, "dur":7454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Telemetry.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1667923775117951, "dur":2124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923775120086, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923775120106, "dur":2346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923775122530, "dur":26934, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Environments.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1667923775149476, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923775149497, "dur":7191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Environments.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1667923775156786, "dur":108657, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923775265456, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923775265476, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923775267445, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923775267519, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923775267534, "dur":271369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923775539002, "dur":12113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonChat.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1667923775551128, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923775551179, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonChat.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1667923775553477, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923775553554, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1667923775553571, "dur":266424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":10, "ts":1667923775820070, "dur":264128, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923774359448, "dur":2, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923774359451, "dur":4465, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923774363919, "dur":582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1667923774364507, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923774394188, "dur":126206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1667923774520490, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923774520590, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923774520608, "dur":83573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923774604268, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923774604393, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923774604410, "dur":146331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923774750835, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923774750940, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923774750958, "dur":77710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923774828763, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923774828860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923774828875, "dur":70727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923774899692, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923774899771, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923774899789, "dur":114013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775013917, "dur":162257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775176237, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923775176258, "dur":1913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775178255, "dur":89859, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775268124, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923775268141, "dur":16340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775284580, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775284807, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923775284826, "dur":89410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775374312, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775374391, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923775374408, "dur":317491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775691981, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923775692063, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1667923775692084, "dur":391981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1667923776084096, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":11, "ts":1667923776084097, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774359961, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774359962, "dur":3925, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774363888, "dur":442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1667923774364345, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774373959, "dur":14710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1667923774388734, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1667923774388904, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774388916, "dur":114545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1667923774503528, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923774503636, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774503708, "dur":58581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923774562384, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923774562481, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774562496, "dur":42009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923774604611, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923774604714, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774604732, "dur":52963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923774657776, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923774658006, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774658023, "dur":322823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923774980945, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923774981049, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923774981067, "dur":481970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923775463139, "dur":406487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923775869635, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1667923775869651, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":12, "ts":1667923775871236, "dur":212968, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774360544, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774360545, "dur":3380, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774363927, "dur":543, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1667923774364475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774386519, "dur":119689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1667923774506264, "dur":2301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774508577, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774508588, "dur":144140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774652815, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774652917, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774652936, "dur":89518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774742739, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774742879, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774742897, "dur":65222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774808209, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774808293, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774808310, "dur":117136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774925529, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774925616, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774925636, "dur":68290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774994036, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923774994134, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923774994155, "dur":118320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923775112561, "dur":19309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Networking.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1667923775131882, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775131904, "dur":1992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Networking.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1667923775133981, "dur":14482, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Environments.Internal.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1667923775148477, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775148501, "dur":2475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Environments.Internal.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1667923775151081, "dur":1886, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923775152978, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775152998, "dur":3331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923775156436, "dur":1742, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923775158189, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775158208, "dur":1888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923775160168, "dur":18623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Device.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1667923775178801, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775178817, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Device.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1667923775181181, "dur":14830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Analytics.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1667923775196023, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775196044, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Analytics.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1667923775198457, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923775198537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775198552, "dur":542724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":13, "ts":1667923775741425, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":13, "ts":1667923775741654, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775741670, "dur":2818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":13, "ts":1667923775744606, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":13, "ts":1667923775744716, "dur":12, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775744741, "dur":4971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":13, "ts":1667923775749961, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1667923775750207, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775750314, "dur":5336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1667923775755780, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1667923775755930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1667923775755947, "dur":32907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1667923775788933, "dur":295197, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923774360851, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923774360852, "dur":3075, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923774363928, "dur":529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1667923774364462, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923774385739, "dur":425542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1667923774811370, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923774811464, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923774811481, "dur":102683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923774914273, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923774914372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923774914388, "dur":97525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923775012023, "dur":34041, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775046076, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775046097, "dur":17588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775063763, "dur":13510, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775077287, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775077317, "dur":4930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775082356, "dur":14179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Threading.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775096546, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775096568, "dur":1926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Threading.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775098565, "dur":19815, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Registration.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775118391, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775118413, "dur":3246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Registration.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775121748, "dur":116588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923775238351, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775238378, "dur":3062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923775241539, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923775241625, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775241642, "dur":203433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923775445151, "dur":25072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775470235, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775470258, "dur":2295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775472630, "dur":33903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.Demos.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775506549, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775506630, "dur":2279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.Demos.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775508988, "dur":19397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonRealtime.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775528399, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775528423, "dur":9714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonRealtime.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1667923775538219, "dur":268019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923775806252, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1667923775806274, "dur":2426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1667923775808860, "dur":275336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774361086, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774361087, "dur":2825, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774363913, "dur":509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1667923774364443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774375816, "dur":14426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1667923774390307, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":15, "ts":1667923774390471, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774390482, "dur":110693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":15, "ts":1667923774501261, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923774501440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774501450, "dur":73569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923774575109, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923774575237, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774575256, "dur":42263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923774617600, "dur":19030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1667923774636643, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774636664, "dur":2209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1667923774638957, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923774639049, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774639064, "dur":89178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923774728324, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923774728423, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774728443, "dur":92502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923774821027, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923774821105, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923774821123, "dur":193116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923775014322, "dur":28649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1667923775042986, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923775043010, "dur":2677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1667923775045766, "dur":252162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923775297941, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923775297964, "dur":3452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923775301503, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923775301590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923775301605, "dur":423226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923775724968, "dur":190069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923775915046, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1667923775915060, "dur":1328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1667923775916436, "dur":167793, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923774361330, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923774361330, "dur":2601, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923774363932, "dur":671, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1667923774364606, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923774407435, "dur":107868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1667923774515368, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923774515441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923774515453, "dur":93989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923774609526, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923774609614, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923774609632, "dur":66070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923774675845, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923774675969, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923774675991, "dur":169745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923774845823, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923774845898, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923774845918, "dur":48602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923774894597, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923774894671, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923774894687, "dur":210927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923775105762, "dur":75797, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1667923775181570, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923775181588, "dur":2272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1667923775183936, "dur":16886, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923775200834, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923775200851, "dur":2465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923775203401, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923775203489, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923775203505, "dur":211924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923775415500, "dur":23845, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.Utilities.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1667923775439360, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923775439385, "dur":2336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.Utilities.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1667923775441823, "dur":310315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923775752149, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923775752168, "dur":3816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":16, "ts":1667923775756081, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1667923775756180, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923775756194, "dur":9699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1667923775765978, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level1.resS" }}
+,{ "pid":12345, "tid":16, "ts":1667923775766069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923775766082, "dur":12150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level1.resS" }}
+,{ "pid":12345, "tid":16, "ts":1667923775778397, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level0" }}
+,{ "pid":12345, "tid":16, "ts":1667923775778488, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923775778503, "dur":5479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/level0" }}
+,{ "pid":12345, "tid":16, "ts":1667923775784072, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":16, "ts":1667923775784169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1667923775784184, "dur":3165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lance/OneDrive/Bureau/Build/T-as-les-boules_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":16, "ts":1667923775787447, "dur":296746, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1667923776091860, "dur":2830, "ph":"X", "name": "ProfilerWriteOutput" }
+,
